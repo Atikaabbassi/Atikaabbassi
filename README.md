@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./WhatsApp Image 2026-11-06 at 9.04.08 AM.jpeg" width="100%">
+<img src="./banner.png" width="100%">
 
 # Hi 👋, I'm Atikaabbasi
 
