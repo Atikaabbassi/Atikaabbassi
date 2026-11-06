@@ -2,7 +2,7 @@
 
 <img src="./WhatsApp Image 2026-11-06 at 9.04.08 AM.jpeg" width="100%">
 
-# Hi 👋, I'm Atika Abbasi
+# Hi 👋, I'm Atikaabbasi
 
 ### Frontend Developer
 
